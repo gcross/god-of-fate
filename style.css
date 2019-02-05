@@ -1,0 +1,8 @@
+.logo {
+    display: grid;
+    grid-template-columns: auto 300px auto;
+}
+
+.logo_entry {
+    margin: auto;
+}
